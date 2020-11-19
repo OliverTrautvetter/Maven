@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"aufgabe5","c":"Main","l":"InputToUpperCase(String[])","u":"InputToUpperCase(java.lang.String[])"},{"p":"aufgabe5","c":"Main","l":"Main()","u":"%3Cinit%3E()"},{"p":"aufgabe5","c":"Main","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
